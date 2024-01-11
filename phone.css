@@ -1,0 +1,48 @@
+#comp::before{
+    height:1700px;
+}
+
+#today{
+    margin:20px 31px;
+}
+#today.container{
+    display:block;
+}
+#time {
+    font-size: 3rem;
+}
+#date {
+    font-size: 2rem;
+}
+#today .weatherbox {
+    min-width: 216px;
+    max-width: 267px;
+}
+#today .weatheritem {
+    font-size: 1.3rem;
+}
+input.search {
+    font-size: 1rem;
+}
+#timezone {
+    font-size: 3rem;
+}
+#country {
+    font-size: 2.0rem;
+
+}
+#tow {
+    height: 164px;
+    width: 164px;
+}
+.btn {
+    padding: 14px 11px;
+}
+#other .weathercontainer {
+
+    padding: 17px 5px;
+}
+#other .weatherbox {
+    padding: 21px 9px;
+    min-width: 235px;
+}
